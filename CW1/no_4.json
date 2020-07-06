@@ -1,0 +1,48 @@
+{
+	"Company": [{
+		"name": "JADU",
+		"Address": [{
+			"city": "Leicester",
+			"postcode": "LE191RJ"
+		}],
+		"Student": [{
+			"email": "ab123",
+			"sid": " 123456789 ",
+			"Address": {
+				"city": "Leicester",
+				"postcode": "LE17HA"
+			}
+		},
+		{
+			"email": "null",
+			"sid": "987654321",
+			"Address": {
+				"city": "Leicester",
+				"postcode": "LE17HA"
+			}
+		}]
+	},
+	{
+		"name": "IBM",
+		"Address": [{
+			"city": "Leicester",
+			"postcode": "LE1 7EA"
+		}],
+		"Student": [{
+			"email": "ab123",
+			"sid": " 123456789 ",
+			"Address": {
+				"city": "Leicester",
+				"postcode": "LE17HA"
+			}
+		},
+		{
+			"email": "zy987",
+			"sid": "987654321",
+			"Address": {
+				"city": "Leicester",
+				"postcode": "LE17HA"
+			}
+		}]
+	}]
+}
